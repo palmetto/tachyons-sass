@@ -1,6 +1,7 @@
 # tachyons-sass [![Build Status](https://travis-ci.org/tachyons-css/tachyons-sass.svg?branch=master)](https://travis-ci.org/tachyons-css/tachyons-sass)
 
-Transpiled partials for Tachyons.
+Transpiled partials for Tachyons, customized for Mapdwell.
+For a list of custom Mapdwell tachyons, view the diff with tachyons-sass here: https://github.com/tachyons-css/tachyons-sass/compare/master...mapdwell:master
 
 ## Installation
 

@@ -46,24 +46,31 @@
 
 /* Type Scale */
 
-
+.f0 { font-size: $font-size-0; }
 .f1 { font-size: $font-size-1; }
+.f15 { font-size: $font-size-15; }
 .f2 { font-size: $font-size-2; }
+.f25 { font-size: $font-size-25; }
 .f3 { font-size: $font-size-3; }
 .f4 { font-size: $font-size-4; }
+.f45 { font-size: $font-size-45; }
 .f5 { font-size: $font-size-5; }
 .f6 { font-size: $font-size-6; }
 .f7 { font-size: $font-size-7; }
 
-@media #{$breakpoint-not-small}{
+@media #{$breakpoint-not-small} {
   .f-6-ns,
   .f-headline-ns { font-size: $font-size-headline; }
   .f-5-ns,
   .f-subheadline-ns { font-size: $font-size-subheadline; }
+  .f0-ns { font-size: $font-size-0; }
   .f1-ns { font-size: $font-size-1; }
+  .f15-ns { font-size: $font-size-15; }
   .f2-ns { font-size: $font-size-2; }
+  .f25-ns { font-size: $font-size-25; }
   .f3-ns { font-size: $font-size-3; }
   .f4-ns { font-size: $font-size-4; }
+  .f45-ns { font-size: $font-size-45; }
   .f5-ns { font-size: $font-size-5; }
   .f6-ns { font-size: $font-size-6; }
   .f7-ns { font-size: $font-size-7; }
