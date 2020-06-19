@@ -12,6 +12,7 @@
 
   Base
     t = text-align
+    tal = text-align-last
 
   Modifiers
     l = left
@@ -30,14 +31,14 @@
 .tr  { text-align: right; }
 .tc  { text-align: center; }
 .tj  { text-align: justify; }
-.tarl{ text-align-right: last; }
+.talr{ text-align-last: right; }
 
 @media #{$breakpoint-not-small} {
   .tl-ns  { text-align: left; }
   .tr-ns  { text-align: right; }
   .tc-ns  { text-align: center; }
   .tj-ns  { text-align: justify; }
-  .tarl-ns{ text-align-right: last; }
+  .talr-ns{ text-align-last: right; }
 }
 
 @media #{$breakpoint-medium} {
@@ -45,7 +46,7 @@
   .tr-m  { text-align: right; }
   .tc-m  { text-align: center; }
   .tj-m  { text-align: justify; }
-  .tarl-m{ text-align-right: last; }
+  .talr-m{ text-align-last: right; }
 }
 
 @media #{$breakpoint-large} {
@@ -53,5 +54,5 @@
   .tr-l  { text-align: right; }
   .tc-l  { text-align: center; }
   .tj-l  { text-align: justify; }
-  .tarl-l{ text-align-right: last; }
+  .talr-l{ text-align-last: right; }
 }
