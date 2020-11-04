@@ -80,14 +80,11 @@ $gray: #777 !default;
 $silver: #999 !default;
 $light-silver: #aaa !default;
 $moon-gray: #d8d8d8 !default; /* secondary gray */
-$smooth-gray: #e9e9e9 !default;
 $light-gray: #f2f2f2 !default;
-$lightest-gray: #f2f2f2 !default;
 $near-white: #fafafa !default;
 $white: #fff !default;
 $transparent: transparent !default;
 $black-90: rgba(0,0,0,.9) !default;
-$transparent-black: rgba(0, 0, 0, 0.85) !default;
 $black-80: rgba(0,0,0,.8) !default;
 $black-70: rgba(0,0,0,.7) !default;
 $black-60: rgba(0,0,0,.6) !default;
@@ -100,7 +97,6 @@ $black-05: rgba(0,0,0,.05) !default;
 $black-025: rgba(0,0,0,.025) !default;
 $black-0125: rgba(0,0,0,.0125) !default;
 $white-90: rgba(255,255,255,.9) !default;
-$transparent-white: rgba(255, 255, 255, 0.85) !default;
 $white-80: rgba(255,255,255,.8) !default;
 $white-70: rgba(255,255,255,.7) !default;
 $white-60: rgba(255,255,255,.6) !default;
@@ -112,22 +108,15 @@ $white-10: rgba(255,255,255,.1) !default;
 $white-05: rgba(255,255,255,.05) !default;
 $white-025: rgba(255,255,255,.025) !default;
 $white-0125: rgba(255,255,255,.0125) !default;
-$transparent-gray: hsla(0, 0, 10, 0.75) !default;
 $dark-red: #e7040f !default;
 $red: #ca2e0f !default; /* mapdwell red */
 $light-red: #ff725c !default;
-$lightest-red: #fae9e7 !default;
 $orange: #df9114 !default; /* mapdwell orange */
-$dark-orange: #e57c0a !default;
-$intense-orange: #FF5722 !default;
-$lightest-orange: #f9f3e7 !default;
 $gold: #ffb700 !default;
 $yellow: #f4bc27 !default; /* mapdwell yellow */
 $light-yellow: #fbf1a9 !default;
-$lightest-yellow: #fff6e7 !default;
 $purple: #a13684 !default; /* mapdwell purple */
 $light-purple: #a463f2 !default;
-$lightest-purple: #f9f0f6 !default;
 $dark-pink: #d00060 !default; /* mapdwell dark pink */
 $hot-pink: #ff41b4 !default;
 $pink: #c22176 !default; /* epp pink */
@@ -135,9 +124,6 @@ $light-pink: #d43f85 !default; /* mapdwell light pink */
 $dark-green: #477f38 !default;
 $green: #5ea94a !default; /* mapdwell green */
 $light-green: #7eba6e !default;
-$lightest-green: #f0f3e8 !default;
-$disabled-green: #d4debc !default;
-$teal: #00a392 !default; /* mapdwell teal */
 $navy: #001b44 !default;
 $dark-blue: #075aa2 !default;
 $blue: #1079d4 !default; /* mapdwell blue */
@@ -147,9 +133,6 @@ $washed-blue: #4bbfcd !default; /* epp teal */
 $washed-green: #e8fdf5 !default;
 $washed-yellow: #fffceb !default;
 $washed-red: #ffdfdf !default;
-$linkedin-color: #0e65c2 !default;
-$facebook-color: #1977f2 !default;
-$apple-color: #000 !default;
 
 // Custom Media Query Variables
 
