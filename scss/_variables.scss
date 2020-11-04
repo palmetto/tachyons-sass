@@ -73,15 +73,15 @@ $box-shadow-3: 2px 2px 4px 2px rgba( 0, 0, 0, 0.2 ) !default;
 $box-shadow-4: 2px 2px 8px 0px rgba( 0, 0, 0, 0.2 ) !default;
 $box-shadow-5: 4px 4px 8px 0px rgba( 0, 0, 0, 0.2 ) !default;
 $black: #000 !default;
-$near-black: #111 !default;
-$dark-gray: #333 !default;
-$mid-gray: #555 !default;
+$near-black: #3e3e3e !default;
+$dark-gray: #4a4a4a !default; /* primary gray */
+$mid-gray: #9b9b9b !default;
 $gray: #777 !default;
 $silver: #999 !default;
 $light-silver: #aaa !default;
-$moon-gray: #ccc !default;
-$light-gray: #eee !default;
-$near-white: #f4f4f4 !default;
+$moon-gray: #d8d8d8 !default; /* secondary gray */
+$light-gray: #f2f2f2 !default;
+$near-white: #fafafa !default;
 $white: #fff !default;
 $transparent: transparent !default;
 $black-90: rgba(0,0,0,.9) !default;
@@ -109,27 +109,27 @@ $white-05: rgba(255,255,255,.05) !default;
 $white-025: rgba(255,255,255,.025) !default;
 $white-0125: rgba(255,255,255,.0125) !default;
 $dark-red: #e7040f !default;
-$red: #ff4136 !default;
+$red: #ca2e0f !default; /* mapdwell red */
 $light-red: #ff725c !default;
-$orange: #ff6300 !default;
+$orange: #df9114 !default; /* mapdwell orange */
 $gold: #ffb700 !default;
-$yellow: #ffd700 !default;
+$yellow: #f4bc27 !default; /* mapdwell yellow */
 $light-yellow: #fbf1a9 !default;
-$purple: #5e2ca5 !default;
+$purple: #a13684 !default; /* mapdwell purple */
 $light-purple: #a463f2 !default;
-$dark-pink: #d5008f !default;
+$dark-pink: #d00060 !default; /* mapdwell dark pink */
 $hot-pink: #ff41b4 !default;
-$pink: #ff80cc !default;
-$light-pink: #ffa3d7 !default;
-$dark-green: #137752 !default;
-$green: #19a974 !default;
-$light-green: #9eebcf !default;
+$pink: #c22176 !default; /* epp pink */
+$light-pink: #d43f85 !default; /* mapdwell light pink */
+$dark-green: #477f38 !default;
+$green: #5ea94a !default; /* mapdwell green */
+$light-green: #7eba6e !default;
 $navy: #001b44 !default;
-$dark-blue: #00449e !default;
-$blue: #357edd !default;
-$light-blue: #96ccff !default;
+$dark-blue: #075aa2 !default;
+$blue: #1079d4 !default; /* mapdwell blue */
+$light-blue: #4aa2ed !default;
 $lightest-blue: #cdecff !default;
-$washed-blue: #f6fffe !default;
+$washed-blue: #4bbfcd !default; /* epp teal */
 $washed-green: #e8fdf5 !default;
 $washed-yellow: #fffceb !default;
 $washed-red: #ffdfdf !default;
